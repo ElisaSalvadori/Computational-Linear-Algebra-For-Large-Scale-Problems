@@ -1,1 +1,3 @@
-# Computational-Linear-Algebra-For-Large-Scale-Problem
+# Computational-Linear-Algebra-For-Large-Scale-Problems
+
+This is my repository for the 'Computational Linear Algebra For Large Scale Problems' class. 
